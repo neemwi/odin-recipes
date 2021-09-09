@@ -1,0 +1,1 @@
+This is the first project in the new foundations section for HTML where we build a website for recipes.
